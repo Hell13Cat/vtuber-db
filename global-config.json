@@ -1,0 +1,25 @@
+{
+    "lang": {
+        "en":{
+            "name":"English",
+            "parent":"00"
+        },
+        "ru":{
+            "name":"Русский",
+            "parent":"en"
+        }
+    },
+    "datalist":{
+        "vtubers":[
+            "uid00001",
+            "uid00002",
+            "uid00003",
+            "uid00004"
+        ],
+        "agency":[
+            "uid00005"
+        ],
+        "group":[
+        ]
+    }
+}
