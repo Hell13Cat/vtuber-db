@@ -1,0 +1,27 @@
+{
+    "name":{
+        "en":"NIJISANJI"
+    },
+    "description":{
+        "en":"A group of mostly 2D-only Virtual YouTubers who are also known as \"Virtual Livers\" when posting on sites outside of YouTube, such as NicoNico Douga, Twitch and Bilibili.",
+        "ru":"Японское агенство, состоящая из 255 виртуальных ютуберов, которые также известны как \"Virtual Livers\" размещеные на сайтах за пределами YouTube, таких как NicoNico Douga и Bilibili."
+    },
+    "lang":{
+        "en":"jp, en, id, kr, in, ch",
+        "ru":"яп, англ, индон, кор, индия, китай"
+    },
+    "created":"18-02",
+    "gen":"yes",
+    "genlist":[
+        {
+            "name":{
+                "en":"LazuLight"
+            },
+            "members":[
+                "uid00001",
+                "uid00002",
+                "uid00003"
+            ]
+        }
+    ]
+}
